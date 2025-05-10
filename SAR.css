@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: url('https://zaaednews.com/wp-content/uploads/2024/08/%D9%85%D8%B5%D8%B1%D9%88%D9%81%D8%A7%D8%AA-%D9%88%D8%AA%D9%86%D8%B3%D9%8A%D9%82-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%AF%D8%A9-2024-2025.webp') no-repeat center center fixed;
+  background: url('https://scontent.fcai11-1.fna.fbcdn.net/v/t39.30808-6/476918299_122244531752009726_3835483684768810590_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEhzsNYqdKkjYPU_QuNwVbUwinZT7tcSMXCKdlPu1xIxa0QLDRiqWThCbhVs85usv8BmHnLoguRUY2UYnFfrQj4&_nc_ohc=V1DZNvvQyWIQ7kNvwFU0Sdi&_nc_oc=Admm8M3e-_BvFlK_v4lxTX83hompopjfGFghlptf9PKVg_azpMGSfD4rGXSSI4AkHPQ&_nc_zt=23&_nc_ht=scontent.fcai11-1.fna&_nc_gid=hvmWZKPL8-ZdCKZRCdSVkw&oh=00_AfKLU38qw9zC2vFk1xeojfIE3cBdic3UUB6xA-V7-l6-Ww&oe=682584A1') no-repeat center center fixed;
   background-size: cover;
   color: #222;
   line-height: 1.6;
@@ -91,3 +91,4 @@ form input[type="submit"] {
 form input[type="submit"]:hover {
   background-color: #00b4d8;
 }
+
