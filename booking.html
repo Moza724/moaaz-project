@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Book Event - SAR</title>
+  <link rel="stylesheet" href="SAR.css">
+</head>
+<body>
+  <header>
+    <h1>Book an Event</h1>
+    <p>Reserve your place in upcoming student activities</p>
+  </header>
+  
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="register.html">Register</a></li>
+      <li><a href="booking.html">Book Event</a></li>
+      <li><a href="history.html">History</a></li>
+      <li><a href="calendar.html">Calendar</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <form>
+      <label for="event-name">Event Name</label>
+      <input type="text" id="event-name" name="event-name" required>
+
+      <label for="event-type">Event Type</label>
+      <input type="text" id="event-type" name="event-type">
+
+      <label for="location">Location</label>
+      <input type="text" id="location" name="location">
+
+      <label for="date-time">Date & Time</label>
+      <input type="datetime-local" id="date-time" name="date-time">
+
+      <label for="audience">Audience</label>
+      <input type="text" id="audience" name="audience">
+
+      <label for="resources">Required Resources</label>
+      <input type="text" id="resources" name="resources">
+
+      <input type="submit" value="Book Event">
+    </form>
+  </main>
+</body>
+</html>
